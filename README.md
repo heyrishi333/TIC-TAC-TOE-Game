@@ -1,3 +1,2 @@
 # TIC-TAC-TOE-Game
-My clone repository
-Using Javascript
+My clone Game -Using Javascript
